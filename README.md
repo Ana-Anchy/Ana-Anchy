@@ -1,9 +1,8 @@
-# github.com-Ana-Anchy
+
 # Hi there, and welcome to my GitHub!
 
 ## Data Analyst | Business Intelligence & Data-Driven Insights | Analytical Problem-Solving | GovTech & Public Sector Experience | Future-Ready in Data Science
 
----
 
 ## About Me
 
