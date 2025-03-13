@@ -33,15 +33,6 @@
 - **Advanced Analytics:** Machine Learning (ML) and Deep Learning (DL)
 - **Methodologies:** Agile project work and collaboration
 
----
-
-## Pinned Repositories
-- **Python-Kunskapskontroll:** Knowledge checks and practice notebooks for Python
-- **SQL-Kunskapskontroll:** Exercises and examples focusing on SQL queries and database management
-- **PowerBI:** Projects and reports demonstrating data visualization and storytelling
-- **Machine-Learning:** Notebooks and resources exploring ML algorithms and techniques
-
----
 
 ## What I’m Working On
 - Deepening my knowledge of data science methodologies and best practices
