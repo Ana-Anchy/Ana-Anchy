@@ -21,7 +21,7 @@
 
 ---
 ## Get in Touch
-- **LinkedIn:** []
-- **Email:** []
+- **LinkedIn:** [www.linkedin.com/in/anaaa]
+- **Email:** [anicaslatkica@gmail.com]
 
 I'm always open to collaborating on interesting data projects, especially those focused on public sector innovation, GovTech, or social impact. Feel free to explore my repositories, and don't hesitate to reach out!
