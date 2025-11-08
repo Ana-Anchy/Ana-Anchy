@@ -10,7 +10,7 @@
 
 ### Technical Focus
 - **Languages & Tools:** Python, SQL, and R for data analysis and model development
-- **Business Intelligence:** Tools such as Power BI
+- **Business Intelligence:** Tools such as Qlik Sense (Super User) and Power BI
 - **Advanced Analytics:** Machine Learning (ML) and Deep Learning (DL)
 - **Methodologies:** Agile project work and collaboration
 
